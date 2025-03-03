@@ -1,4 +1,4 @@
-# Homeassignment2
+# Home Aassignment2
 # CS5720 Neural Networks and Deep Learning - Home Assignment 2
 
 ## Student Information
